@@ -1,4 +1,4 @@
-# Bornfight Developers [![CircleCI](https://circleci.com/gh/artsy/README.svg?style=svg)](https://circleci.com/gh/artsy/README)
+# Bornfight Developers
 
 Welcome to Bornfight!
 
