@@ -41,13 +41,17 @@ The repo is not forked, it is just a copy built on similar scripts and ideas, wi
 <a href="https://www.bornfight.com/">
 </a>
 
-This project is maintained by the developers at [Bornfight][footer_website]
+This project is maintained by the developers at [Bornfight][footer_website].
 
 
 You can learn more about our work from [our blog][footer_blog] and by following
-[Bornfight on twitter][footer_twitter]. If you're interested in a career at Bornfight, take a look at our [careers page][footer_jobs]!
+[Bornfight on twitter][footer_twitter], [Facebook][footer_facebook] or [Instagram][footer_instagram]. 
+
+If you're interested in a career at Bornfight, take a look at our [careers page][footer_jobs]!
 
 [footer_website]: https://www.bornfight.com/
+[footer_facebook]: http://facebook.com/bornfight.company
+[footer_instagram]: https://www.instagram.com/bornfight/
 [footer_twitter]: https://twitter.com/Bornfight_
 [footer_blog]: https://www.bornfight.com/blog/
 [footer_jobs]: https://www.bornfight.com/careers
