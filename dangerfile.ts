@@ -9,11 +9,11 @@ const skipTODOCheck = ["dangerfile.ts", "CONTRIBUTING.md"];
 // Check for [TO-DO]s in all files changed
 
 const wordsToAvoid = [
+    { word: "bornfight", reason: "Please use Bornfight, capital 'B'" },
     { word: "Github", reason: "Please use GitHub, capital 'H'" },
-    { word: "Cocoapods", reason: "Please use CocoaPods, capital 'P'" },
-    { word: "Javascript", reason: "Please use JavaScript, capital 'S'" },
-    { word: "Typescript", reason: "Please use TypeScript, capital 'S'" },
-    { word: "localhost:4000", reason: "You may have left an internal link in the markdown" },
+    { word: "javascript", reason: "Please use JavaScript, capital 'J'" },
+    { word: "typescript", reason: "Please use TypeScript, capital 'T'" },
+    { word: "localhost", reason: "You may have left an internal link in the markdown" },
     { word: ".loc", reason: "You may have left an internal link in the markdown" },
     { word: "[]: ???", reason: "You've missed a link" },
     { word: "[TODO]", reason: "You may have missed a TODO here" },

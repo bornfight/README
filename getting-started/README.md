@@ -1,10 +1,7 @@
-### Careers
-
-
 <!-- prettier-ignore-start -->
 <!-- start_toc -->
 | Doc | Overview |
 |---|---|
-| [Team structure](/careers/team-structure.md#readme) | Some insight of how things tick from the inside |
+| [First notes](/getting-started/first-notes.md#readme) | Hi! |
 <!-- end_toc -->
 <!-- prettier-ignore-end -->

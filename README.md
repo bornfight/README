@@ -1,14 +1,12 @@
-# Bornfight Developers
+# Bornfight Development
 
 Welcome to Bornfight!
 
 This repo is a living source of internal documentation. 
-Reach out to your mentor or anyone else on the team with questions, or try the [#dev Slack channel](https://bornfight.slack.com/messages/general-development) 🔒.
 
-This repo is heavily inspired by the [README repo of Artsy](https://github.com/artsy/README).
- 
-We believe the ideas, philosophy, culture, implementation and content expressed there is something that is both brilliant and inspiring.
-The repo is not forked, it is just a copy built on similar scripts and ideas.
+Our team vision is "Always create significance", so we we feel that this type of repo is definitely a step in the right direction in terms of documentation, processes, ideas and of course sharing all of that with the world.
+
+Feel free to reach out to your mentor or anyone else on the team with questions, or try the [#dev Slack channel](https://bornfight.slack.com/messages/general-development) 🔒.
 
 
 The repo is split out into different sections, each one has a summary of what's inside to make it easy to browse.
@@ -17,18 +15,23 @@ The repo is split out into different sections, each one has a summary of what's 
 <!-- start_toc -->
 | Section |  |
 |---|---|
-| [How to use and setup our CI/CD process](/CICD#readme) | Details on who's who, what's what and how to do stuff with our CI/CD system |
-| [Best practices](/best practises#readme) | Some things we learned, and would like to share |
-| [External material produced by Bornfight](/blogs#readme) | A list of places to find stuff we write about |
-| [Career opportunities at Bornfight](/careers#readme) | A list of open positions in development |
-| [Culture is important](/culture#readme) | The ideas, philosophy and values we think are important in Bornfight |
-| [An entry point for different situations](/getting started#readme) | Some insight on how to start stuff |
-| [Legacy projects](/legacy projects#readme) | Information on how to deal with some legacy projects |
+| [Best practices](/best-practises#readme) | Knowledge we would like to share, gathered through the years |
+| [A career at Bornfight](/careers#readme) | How our team is structured, and where you fit in |
+| [Culture is important](/culture#readme) | The ideas, philosophy and values we consider important at Bornfight |
+| [Everything we do to keep us smart](/education#readme) | Stuff we do to stay on top of things! |
+| [An entry point for different situations](/getting-started#readme) | Some insight on how to start stuff |
+| [History of software development at Bornfight](/history#readme) | How we and our work evolved through the years |
 | [Onboarding information](/onboarding#readme) | Everything about how your first few months are going to look |
-| [Open source](/open source#readme) | Stuff we made, fixed, and use regarding open source |
-| [Recommendations](/recommendations#readme) | A curated list of knowledge gathered through the years |
+| [Open source](/open-source#readme) | Stuff we made, fixed, and use regarding open source |
+| [How to actually do particular tasks at Bornfight](/playbooks#readme) | Entry point for specific things |
+| [The tools we use](/tools#readme) | All the tools(programs, services,etc) we use in our every day life |
 <!-- end_toc -->
 <!-- prettier-ignore-end -->
+
+This repo is heavily inspired by the [README repo of Artsy](https://github.com/artsy/README).
+
+We believe the ideas, philosophy, culture, implementation and content expressed there is something that is both brilliant and inspiring.
+The repo is not forked, it is just a copy built on similar scripts and ideas, with their approval of course.
 
 
 <a rel="license" href="https://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a>
@@ -38,7 +41,7 @@ The repo is split out into different sections, each one has a summary of what's 
 <a href="https://www.bornfight.com/">
 </a>
 
-This project is maintained by the developers at [Bornfight][footer_website], but the idea is inspired by [this Artsy repo](https://github.com/artsy/README) we find amazing.
+This project is maintained by the developers at [Bornfight][footer_website]
 
 
 You can learn more about our work from [our blog][footer_blog] and by following
