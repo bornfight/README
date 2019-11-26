@@ -23,7 +23,7 @@ yarn install
 
 ```
 
-## Helpful Automation, implemented by [Artsy](https://github.com/artsy/README/tree/master/scripts)
+## Helpful Automation, implemented by [Artsy](https://github.com/artsy/README/tree/master/scripts), edited to fit the needs of  [Bornfight](https://www.bornfight.com)
 
 This repo has some useful automation set up for it to generate tables of contents. This is implemented in
 [`scripts/create-readmes.ts`](scripts/create-readmes.ts), which handles:
@@ -31,6 +31,7 @@ This repo has some useful automation set up for it to generate tables of content
 - Creating a summary `README.md` for each section of docs
 - Providing an overview of the section in the root `README.md`
 - Enables running [doctoc](https://github.com/thlorenz/doctoc#readme) on any file with `<!-- START doctoc`
+- Adds every contentless .md file to the [topics-up-for-grabs](topics-up-for-grabs.md).
 
 This script runs on every commit, so we'll always ensure all the table of contents are up-to-date.
 
@@ -42,3 +43,5 @@ Each section has a `summary.json` which describes the section for the root `READ
 Adding a new folder, or markdown file into a section will generate `[TODO]` items which will appear as comments in
 a pull request when you `git push` or on CI. This is implemented using [Danger](https://danger.systems) in
 [`dangerfile.ts`](/dangerfile.ts).
+
+If you think of something that should be a file/topic, but don't have the knowledge or time to handle it at the moment, just make and .md file in the appropriate folder, and add the title/description yaml to it. 

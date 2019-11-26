@@ -13,7 +13,7 @@
     "typescript": "^3.0.1"
   },
   "scripts": {
-    "precommit": "yarn setup-structure; yarn sort-tech-radar-data; lint-staged",
+    "precommit": "yarn setup-structure; lint-staged",
     "prepush": "yarn danger local",
     "setup-structure": "ts-node --skip-project scripts/create-readmes.ts;"
   },

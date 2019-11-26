@@ -16,6 +16,11 @@ const readmeFolders = fs
     .filter(f => !includes(skipFolders, f)) // ignore particular folders
     .filter(f => f.indexOf(".") !== 0); // no .git or .vscode
 
+const UFGText = "# These are all the files that have .md files but no content.\n\n" +
+                "Consider them topics, that are still to be filled out, so feel free to type up a bit about the subject!\n\n" +
+                "> These are generated automatically out of every empty .md file.\n\n";
+fs.writeFileSync("topics-up-for-grabs.md", UFGText , "utf8");
+
 // Create an overview README per folder
 readmeFolders.forEach(folder => {
     const readmePath = join(folder, "README.md");
@@ -40,12 +45,16 @@ readmeFolders.forEach(folder => {
         .map(subREADMEPath => {
             const subREADMEContents = fs.readFileSync(subREADMEPath, "utf8");
             const headerMetadata = getYAMLHeadline(subREADMEContents).metadata;
-            
+            const content = getYAMLHeadline(subREADMEContents).content;
             const title =
                 (headerMetadata && headerMetadata.title) || `[TODO] add title via yml front-matter to ${subREADMEPath}`;
             const description =
                 (headerMetadata && headerMetadata.description) ||
                 `[TODO] add description via yml front-matter to ${subREADMEPath}`;
+            
+            if (!content){
+                fs.appendFileSync("topics-up-for-grabs.md", `[${title}(${subREADMEPath})](${subREADMEPath}) - "${description}"<br>\n`, "utf8");
+            }
             
             return `| [${title}](/${subREADMEPath}#readme) | ${description} |`
         });
