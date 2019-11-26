@@ -4,10 +4,14 @@ Welcome to Bornfight!
 
 This repo is a living source of internal documentation. 
 
-Our team vision is "Always create significance", so we we feel that this type of repo is definitely a step in the right direction in terms of documentation, processes, ideas and of course sharing all of that with the world.
+Our team vision is 
+> Always create significance
+
+so we we feel that this type of repo is definitely a step in the right direction in terms of documentation, processes, ideas and of course sharing all of that with the world.
 
 Feel free to reach out to your mentor or anyone else on the team with questions, or try the [#dev Slack channel](https://bornfight.slack.com/messages/general-development) 🔒.
 
+>  This is currently a heavy work in progress, so feel free to add a PR for whatever you think is needed
 
 The repo is split out into different sections, each one has a summary of what's inside to make it easy to browse.
 
@@ -23,7 +27,7 @@ The repo is split out into different sections, each one has a summary of what's 
 | [History of software development at Bornfight](/history#readme) | How we and our work evolved through the years |
 | [Onboarding information](/onboarding#readme) | Everything about how your first few months are going to look |
 | [Open source](/open-source#readme) | Stuff we made, fixed, and use regarding open source |
-| [How to actually do particular tasks at Bornfight](/playbooks#readme) | Entry point for specific things |
+| [How to actually do a particular task at Bornfight](/playbooks#readme) | Entry point for specific things |
 | [The tools we use](/tools#readme) | All the tools(programs, services,etc) we use in our every day life |
 <!-- end_toc -->
 <!-- prettier-ignore-end -->
@@ -38,9 +42,6 @@ The repo is not forked, it is just a copy built on similar scripts and ideas, wi
 
 ## About Bornfight
 
-<a href="https://www.bornfight.com/">
-</a>
-
 This project is maintained by the developers at [Bornfight][footer_website].
 
 
@@ -49,9 +50,9 @@ You can learn more about our work from [our blog][footer_blog] and by following
 
 If you're interested in a career at Bornfight, take a look at our [careers page][footer_jobs]!
 
-[footer_website]: https://www.bornfight.com/
+[footer_website]: https://www.bornfight.com/?utm_source=readmerepo&utm_medium=github&utm_campaign=readmerepo
 [footer_facebook]: http://facebook.com/bornfight.company
 [footer_instagram]: https://www.instagram.com/bornfight/
 [footer_twitter]: https://twitter.com/Bornfight_
-[footer_blog]: https://www.bornfight.com/blog/
-[footer_jobs]: https://www.bornfight.com/careers
+[footer_blog]: https://www.bornfight.com/blog/?utm_source=readmerepo&utm_medium=github&utm_campaign=readmerepo
+[footer_jobs]: https://www.bornfight.com/careers/?utm_source=readmerepo&utm_medium=github&utm_campaign=readmerepo
