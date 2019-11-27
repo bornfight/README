@@ -20,7 +20,6 @@ change that is a bit more nuanced, you can clone the repo and set it up with:
 git clone https://github.com/bornfight/README.git
 cd README
 yarn install
-
 ```
 
 ## Helpful Automation, implemented by [Artsy](https://github.com/artsy/README/tree/master/scripts), edited to fit the needs of  [Bornfight](https://www.bornfight.com)
@@ -33,7 +32,8 @@ This repo has some useful automation set up for it to generate tables of content
 - Enables running [doctoc](https://github.com/thlorenz/doctoc#readme) on any file with `<!-- START doctoc`
 - Adds every contentless .md file to the [topics-up-for-grabs](topics-up-for-grabs.md).
 
-This script runs on every commit, so we'll always ensure all the table of contents are up-to-date.
+After adding files, run `yarn scripts/create-readmes.ts` to generate tables of contents and other useful files.
+This could later be done on commit, but for now it is done manually.
 
 Each markdown file in a section uses [yaml front-matter](https://jekyllrb.com/docs/frontmatter/) to add a
 description and title to the document, which are used to generate a `README.md` for each section.

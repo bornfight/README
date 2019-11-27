@@ -11,7 +11,7 @@ so we we feel that this type of repo is definitely a step in the right direction
 
 Feel free to reach out to your mentor or anyone else on the team with questions, or try the [#dev Slack channel](https://bornfight.slack.com/messages/general-development) 🔒.
 
->  This is currently a heavy work in progress, so feel free to add a PR for whatever you think is needed
+>  This is currently a heavy work in progress, so feel free to add a PR for whatever you think is needed. There is an [Up for grabs](topics-up-for-grabs) file you can check to get some ideas
 
 The repo is split out into different sections, each one has a summary of what's inside to make it easy to browse.
 
