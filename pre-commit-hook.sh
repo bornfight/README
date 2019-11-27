@@ -1,3 +1,3 @@
-yarn setup-structure
-yarn danger local
+yarn setup-structure;
+yarn danger local;
 exit 0
