@@ -32,7 +32,7 @@ This repo has some useful automation set up for it to generate tables of content
 - Enables running [doctoc](https://github.com/thlorenz/doctoc#readme) on any file with `<!-- START doctoc`
 - Adds every contentless .md file to the [topics-up-for-grabs](topics-up-for-grabs.md).
 
-After adding files, run `yarn scripts/create-readmes.ts` to generate tables of contents and other useful files.
+After adding files, run `yarn setup-structure` to generate tables of contents and other useful files.
 This could later be done on commit, but for now it is done manually.
 
 Each markdown file in a section uses [yaml front-matter](https://jekyllrb.com/docs/frontmatter/) to add a
