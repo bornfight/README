@@ -22,7 +22,7 @@ const wordsToAvoid = [
 
 markdowns.forEach(f => {
     if (skipTODOCheck.indexOf(f) !== -1) {
-        return
+        return;
     }
     
     const content = readFileSync(f, "utf8");
