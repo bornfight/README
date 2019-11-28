@@ -191,12 +191,12 @@ We now use Symfony for every new project, and it works for us. Mostly because of
 
 
 ## We are at today
-We'll try to keep you posted :)
+The main drive behind our mindset is "It's ok to switch to something new". 
 
+Every approach always has both benefits and drawback, the main thing we need to do is identify them, be aware of them, and if the drawbacks start outweighing the benefits, it's time to make a plan of what we need, and how to change it up a bit so that it all fits into our day to day life.
+Technology changes, projects change, people change, so all we need to do is assess the situation we are in today, where we want to be and agree that we're all in.
  
-
-
-
+We'll try to keep you posted :)
 
 
 
