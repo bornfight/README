@@ -17,7 +17,7 @@ Consider them topics, that are still to be filled out, so feel free to type up a
 [Public blog(education/public-blog.md)](education/public-blog.md) - "How to use our blogging platform"<br>
 [First notes(getting-started/first-notes.md)](getting-started/first-notes.md) - "Hi!"<br>
 [Company wide onboarding program(onboarding/company-wide-onboarding.md)](onboarding/company-wide-onboarding.md) - "How your first 2 months in Bornfight will look, not as a dev, but as a member of the company"<br>
-[Development onboarding program(onboarding/dev-obboarding.md)](onboarding/dev-obboarding.md) - "How your first 2 months in Bornfight will look, specific to the dev team"<br>
+[Development onboarding program(onboarding/dev-onboarding.md)](onboarding/dev-onboarding.md) - "How your first 2 months in Bornfight will look, specific to the dev team"<br>
 [Notes for mentors and managers(onboarding/onboarding-for-mentors.md)](onboarding/onboarding-for-mentors.md) - "Everything you need to know as a manager"<br>
 [Notes for Team Leads(onboarding/onboarding-for-team-leads.md)](onboarding/onboarding-for-team-leads.md) - "Everything you need to know as a Team Lead in Bornfight"<br>
 [Code reviews(playbooks/code-review.md)](playbooks/code-review.md) - "How our code review process works"<br>
@@ -29,7 +29,6 @@ Consider them topics, that are still to be filled out, so feel free to type up a
 [How to deal with Yii2 projects(playbooks/yii2.md)](playbooks/yii2.md) - "Intro on how things are setup on isolated Yii2 projects"<br>
 [Android(tools/android.md)](tools/android.md) - "Tools used in Android development"<br>
 [Documentation(tools/documentation.md)](tools/documentation.md) - "Tools used in regards to documenting things"<br>
-[Domains(tools/domains.md)](tools/domains.md) - "Tools and services related to domains"<br>
 [Email(tools/email.md)](tools/email.md) - "Tools and services used that are somehow related to sending and receiving email"<br>
 [Frontend(tools/frontend.md)](tools/frontend.md) - "Tools used in frontend development"<br>
 [Infrastructure(tools/infrastructure.md)](tools/infrastructure.md) - "Servers, services, ops, devops stuff that we use"<br>
