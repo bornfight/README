@@ -5,7 +5,6 @@ Consider them topics, that are still to be filled out, so feel free to type up a
 > These are generated automatically out of every empty .md file.
 
 [Team structure(careers/team-structure.md)](careers/team-structure.md) - "Some insight of how things tick from the inside"<br>
-[Communication(culture/communication.md)](culture/communication.md) - "What we use for what to talk to others"<br>
 [Dev weekly(culture/dev-weekly.md)](culture/dev-weekly.md) - "Our weekly meeting where we discuss ongoing topics, potential issues and new stuff we want to integrate into the team"<br>
 [Dev events(culture/events.md)](culture/events.md) - "Meetings that happen"<br>
 [Operation Fruit Fly(culture/fruit-fly.md)](culture/fruit-fly.md) - "A simple framework for interrupting people the right way"<br>
@@ -17,11 +16,9 @@ Consider them topics, that are still to be filled out, so feel free to type up a
 [Internal blog(education/internal-blog.md)](education/internal-blog.md) - "How to use "devedu""<br>
 [Public blog(education/public-blog.md)](education/public-blog.md) - "How to use our blogging platform"<br>
 [First notes(getting-started/first-notes.md)](getting-started/first-notes.md) - "Hi!"<br>
-[History(history/brief-history.md)](history/brief-history.md) - "Where we were, where are we now?"<br>
 [Company wide onboarding program(onboarding/company-wide-onboarding.md)](onboarding/company-wide-onboarding.md) - "How your first 2 months in Bornfight will look, not as a dev, but as a member of the company"<br>
 [Development onboarding program(onboarding/dev-obboarding.md)](onboarding/dev-obboarding.md) - "How your first 2 months in Bornfight will look, specific to the dev team"<br>
 [Notes for mentors and managers(onboarding/onboarding-for-mentors.md)](onboarding/onboarding-for-mentors.md) - "Everything you need to know as a manager"<br>
-[Notes for new team members(onboarding/onboarding-for-new-team-members.md)](onboarding/onboarding-for-new-team-members.md) - "Everything you need to know as a new team member in Bornfight development"<br>
 [Notes for Team Leads(onboarding/onboarding-for-team-leads.md)](onboarding/onboarding-for-team-leads.md) - "Everything you need to know as a Team Lead in Bornfight"<br>
 [Code reviews(playbooks/code-review.md)](playbooks/code-review.md) - "How our code review process works"<br>
 [The how and what of Jenkins(playbooks/jenkins.md)](playbooks/jenkins.md) - "Everything you need to know on how to use Jenkins for CI/CD"<br>
