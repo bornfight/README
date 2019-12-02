@@ -18,7 +18,8 @@ const readmeFolders = fs
 
 const UFGText = "# These are all the files that have .md files but no content.\n\n" +
                 "Consider them topics, that are still to be filled out, so feel free to type up a bit about the subject!\n\n" +
-                "> These are generated automatically out of every empty .md file.\n\n";
+                "> These are generated automatically out of every empty .md file.\n\n" +
+                "| Title | Overview |\n|---|---|\n";
 fs.writeFileSync("topics-up-for-grabs.md", UFGText , "utf8");
 
 // Create an overview README per folder
@@ -53,13 +54,13 @@ readmeFolders.forEach(folder => {
                 `[TODO] add description via yml front-matter to ${subREADMEPath}`;
             
             if (!content){
-                fs.appendFileSync("topics-up-for-grabs.md", `[${title}(${subREADMEPath})](${subREADMEPath}) - "${description}"<br>\n`, "utf8");
+                fs.appendFileSync("topics-up-for-grabs.md", `| [${title}(${subREADMEPath})](${subREADMEPath}) | ${description}| \n`, "utf8");
             }
             
             return `| [${title}](/${subREADMEPath}#readme) | ${description} |`
         });
     
-    const inside = `| Doc | Overview |\n|---|---|\n${docs.join("\n")}`;
+    const inside = `| Title | Overview |\n|---|---|\n${docs.join("\n")}`;
     
     const newContent = `${before}${inside}${after}`;
     fs.writeFileSync(readmePath, newContent, "utf8")

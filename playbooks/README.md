@@ -1,6 +1,6 @@
 <!-- prettier-ignore-start -->
 <!-- start_toc -->
-| Doc | Overview |
+| Title | Overview |
 |---|---|
 | [Code reviews](/playbooks/code-review.md#readme) | How our code review process works |
 | [Domains](/playbooks/domains.md#readme) | Tools and services related to domains |

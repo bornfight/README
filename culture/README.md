@@ -1,6 +1,6 @@
 <!-- prettier-ignore-start -->
 <!-- start_toc -->
-| Doc | Overview |
+| Title | Overview |
 |---|---|
 | [Communication](/culture/communication.md#readme) | What we use for what to talk to others |
 | [Dev weekly](/culture/dev-weekly.md#readme) | Our weekly meeting where we discuss ongoing topics, potential issues and new stuff we want to integrate into the team |
