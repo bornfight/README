@@ -1,6 +1,6 @@
 <!-- prettier-ignore-start -->
 <!-- start_toc -->
-| Doc | Overview |
+| Title | Overview |
 |---|---|
 | [Internal education videos](/education/education-videos.md#readme) | Last four years of recording our educations almost every friday |
 | [Internal blog](/education/internal-blog.md#readme) | How to use "devedu" |

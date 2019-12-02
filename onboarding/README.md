@@ -1,6 +1,6 @@
 <!-- prettier-ignore-start -->
 <!-- start_toc -->
-| Doc | Overview |
+| Title | Overview |
 |---|---|
 | [Company wide onboarding program](/onboarding/company-wide-onboarding.md#readme) | How your first 2 months in Bornfight will look, not as a dev, but as a member of the company |
 | [Development onboarding program](/onboarding/dev-onboarding.md#readme) | How your first 2 months in Bornfight will look, specific to the dev team |

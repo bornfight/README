@@ -1,6 +1,6 @@
 <!-- prettier-ignore-start -->
 <!-- start_toc -->
-| Doc | Overview |
+| Title | Overview |
 |---|---|
 | [Android](/tools/android.md#readme) | Tools used in Android development |
 | [Documentation](/tools/documentation.md#readme) | Tools used in regards to documenting things |
