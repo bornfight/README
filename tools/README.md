@@ -4,7 +4,6 @@
 |---|---|
 | [Android](/tools/android.md#readme) | Tools used in Android development |
 | [Documentation](/tools/documentation.md#readme) | Tools used in regards to documenting things |
-| [Domains](/tools/domains.md#readme) | Tools and services related to domains |
 | [Email](/tools/email.md#readme) | Tools and services used that are somehow related to sending and receiving email |
 | [Frontend](/tools/frontend.md#readme) | Tools used in frontend development |
 | [Infrastructure](/tools/infrastructure.md#readme) | Servers, services, ops, devops stuff that we use |
