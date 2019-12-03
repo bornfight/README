@@ -7,16 +7,10 @@ Consider them topics, that are still to be filled out, so feel free to type up a
 | Title | Overview |
 |---|---|
 | [Team structure(careers/team-structure.md)](careers/team-structure.md) | Some insight of how things tick from the inside| 
-| [Dev weekly(culture/dev-weekly.md)](culture/dev-weekly.md) | Our weekly meeting where we discuss ongoing topics, potential issues and new stuff we want to integrate into the team| 
-| [Dev events(culture/events.md)](culture/events.md) | Meetings that happen| 
 | [Operation Fruit Fly(culture/fruit-fly.md)](culture/fruit-fly.md) | A simple framework for interrupting people the right way| 
 | [Highlights(culture/highlights.md)](culture/highlights.md) | Some dev highlights we like to remember| 
-| [Naming new stuff(culture/naming.md)](culture/naming.md) | Give everything a fancy name, it really helps| 
 | [Team support(culture/support.md)](culture/support.md) | How we treat each other| 
 | [Who we are(culture/who-we-are.md)](culture/who-we-are.md) | Insight into the team and what we deem important| 
-| [Internal education videos(education/education-videos.md)](education/education-videos.md) | Last four years of recording our educations almost every friday| 
-| [Internal blog(education/internal-blog.md)](education/internal-blog.md) | How to use "devedu"| 
-| [Public blog(education/public-blog.md)](education/public-blog.md) | How to use our blogging platform| 
 | [First notes(getting-started/first-notes.md)](getting-started/first-notes.md) | Hi!| 
 | [Company wide onboarding program(onboarding/company-wide-onboarding.md)](onboarding/company-wide-onboarding.md) | How your first 2 months in Bornfight will look, not as a dev, but as a member of the company| 
 | [Development onboarding program(onboarding/dev-onboarding.md)](onboarding/dev-onboarding.md) | How your first 2 months in Bornfight will look, specific to the dev team| 

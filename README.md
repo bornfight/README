@@ -28,7 +28,6 @@ If you are here because you are a new member of the team, we highly encourage yo
 | [Everything we do to keep us smart](/education#readme) | Stuff we do to stay on top of things! |
 | [An entry point for different situations](/getting-started#readme) | Some insight on how to start stuff |
 | [History of software development at Bornfight](/history#readme) | How we and our work evolved through the years |
-| [[TODO] Add a summary.json to office](/office) | [TODO] |
 | [Onboarding information](/onboarding#readme) | Everything about how your first few months are going to look |
 | [Open source](/open-source#readme) | Stuff we made, fixed, and use regarding open source |
 | [How to actually do a particular task at Bornfight](/playbooks#readme) | Entry point for specific things |
