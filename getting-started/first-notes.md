@@ -21,3 +21,4 @@ Look through [education](../education) to see how we try to stay smart.
 
 Look through [our tools](../tools) to what we use to get things done.
 
+If you see anything that should be changed, don't hesitate to make an issue!

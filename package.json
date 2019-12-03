@@ -1,6 +1,4 @@
 {
-
-
   "husky": {
     "hooks": {
       "pre-commit": "yarn setup-structure; yarn lint-staged;"
@@ -39,5 +37,4 @@
   "dependencies": {
     "husky": "^3.1.0"
   }
-
 }

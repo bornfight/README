@@ -21,7 +21,6 @@ Consider them topics, that are still to be filled out, so feel free to type up a
 | [The tech stack we use(playbooks/technology.md)](playbooks/technology.md) | All the stuff we use on a daily basis, and some for specific projects| 
 | [How to deal with projects in the ancient Yapp repo(playbooks/yapp.md)](playbooks/yapp.md) | Intro on how things are setup in the "yapp" environment| 
 | [How to deal with Yii2 projects(playbooks/yii2.md)](playbooks/yii2.md) | Intro on how things are setup on isolated Yii2 projects| 
-| [Android(tools/android.md)](tools/android.md) | Tools used in Android development| 
 | [Documentation(tools/documentation.md)](tools/documentation.md) | Tools used in regards to documenting things| 
 | [Email(tools/email.md)](tools/email.md) | Tools and services used that are somehow related to sending and receiving email| 
 | [Frontend(tools/frontend.md)](tools/frontend.md) | Tools used in frontend development| 
