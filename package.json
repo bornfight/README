@@ -1,4 +1,11 @@
 {
+
+
+  "husky": {
+    "hooks": {
+      "pre-commit": "yarn setup-structure; yarn lint-staged;"
+    }
+  },
   "devDependencies": {
     "@types/node": "^10.7.1",
     "danger": "^7.0.9",
@@ -32,4 +39,5 @@
   "dependencies": {
     "husky": "^3.1.0"
   }
+
 }
