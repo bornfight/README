@@ -11,8 +11,6 @@ Consider them topics, that are still to be filled out, so feel free to type up a
 | [Highlights(culture/highlights.md)](culture/highlights.md) | Some dev highlights we like to remember| 
 | [Team support(culture/support.md)](culture/support.md) | How we treat each other| 
 | [Who we are(culture/who-we-are.md)](culture/who-we-are.md) | Insight into the team and what we deem important| 
-| [First notes(getting-started/first-notes.md)](getting-started/first-notes.md) | Hi!| 
-| [Company wide onboarding program(onboarding/company-wide-onboarding.md)](onboarding/company-wide-onboarding.md) | How your first 2 months in Bornfight will look, not as a dev, but as a member of the company| 
 | [Development onboarding program(onboarding/dev-onboarding.md)](onboarding/dev-onboarding.md) | How your first 2 months in Bornfight will look, specific to the dev team| 
 | [Notes for mentors and managers(onboarding/onboarding-for-mentors.md)](onboarding/onboarding-for-mentors.md) | Everything you need to know as a manager| 
 | [Notes for Team Leads(onboarding/onboarding-for-team-leads.md)](onboarding/onboarding-for-team-leads.md) | Everything you need to know as a Team Lead in Bornfight| 
