@@ -28,3 +28,19 @@ description: Some projects Bornfight developers have made and have contributed t
 [QA Fortress](https://github.com/bornfight/qa-fortress) <br>
 
 ## Projects Bornfight developers contributed to
+https://github.com/sitespeedio/sitespeed.io/issues/1631<br>
+https://github.com/sitespeedio/sitespeed.io/pull/1630<br>
+https://github.com/yiisoft/yii2/pull/14139<br>
+https://github.com/yiisoft/yii2/issues/14134<br>
+https://github.com/yiisoft/yii2-coding-standards/pull/32<br>
+https://github.com/yiisoft/yii2-coding-standards/pull/35<br>
+https://github.com/lysenkobv/yii2-geoip/pull/5<br>
+https://github.com/deployphp/recipes/pull/213<br>
+https://github.com/lysenkobv/maxmind-geolite2-database/pull/2<br>
+https://github.com/Jimdo/prometheus_client_php/pull/35<br>
+https://github.com/Jimdo/prometheus_client_php/pull/36<br>
+https://github.com/Insolita/yii2-migrik/issues/35<br>
+https://github.com/Insolita/yii2-migrik/issues/34<br>
+https://github.com/krukru/yii2-restmodel<br>
+https://github.com/bornfight/service-workers<br>
+

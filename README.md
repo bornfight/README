@@ -16,7 +16,7 @@ Feel free to reach out to your mentor or anyone else on the team with questions,
 The repo is split out into different sections, each one has a summary of what's inside to make it easy to browse.
 
 If you are here because you are a new member of the team, we highly encourage you to look around and find ONE thing to add, edit or point out. It can be fixing a typo, adding an issue like "explain this in more detail please", or make a PR adding some relevant content where you see you could contribute. Small collaborations, distributed on a large number of people, can make this repo better for all of us!
-
+Have a look at [getting started](getting-started/first-notes.md)
  
 <!-- prettier-ignore-start -->
 <!-- start_toc -->
@@ -28,7 +28,6 @@ If you are here because you are a new member of the team, we highly encourage yo
 | [Everything we do to keep us smart](/education#readme) | Stuff we do to stay on top of things! |
 | [An entry point for different situations](/getting-started#readme) | Some insight on how to start stuff |
 | [History of software development at Bornfight](/history#readme) | How we and our work evolved through the years |
-| [[TODO] Add a summary.json to office](/office) | [TODO] |
 | [Onboarding information](/onboarding#readme) | Everything about how your first few months are going to look |
 | [Open source](/open-source#readme) | Stuff we made, fixed, and use regarding open source |
 | [How to actually do a particular task at Bornfight](/playbooks#readme) | Entry point for specific things |
