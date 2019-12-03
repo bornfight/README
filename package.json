@@ -19,7 +19,8 @@
   "scripts": {
     "precommit": "yarn setup-structure; yarn lint-staged;",
     "prepush": "yarn danger local;",
-    "setup-structure": "ts-node --skip-project scripts/create-readmes.ts;"
+    "setup-structure": "ts-node --skip-project scripts/create-readmes.ts;",
+    "test": "yarn install; yarn setup-structure; yarn danger ci;"
   },
   "lint-staged": {
     "*.{ts,json,md}": [
