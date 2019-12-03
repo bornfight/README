@@ -1,23 +1,30 @@
-# Bornfight Development
+# Bornfight Development ![Travis](https://api.travis-ci.org/bornfight/README.svg?branch=master)
 
 Welcome to Bornfight!
 
-This repo is a living source of internal documentation. 
+This repo is a living source of internal documentation.
 
-Our team vision is 
+Our team vision is
+
 > Always create significance
 
-so we we feel that this type of repo is definitely a step in the right direction in terms of documentation, processes, ideas and of course sharing all of that with the world.
+so we we feel that this type of repo is definitely a step in the right direction in terms of documentation,
+processes, ideas and of course sharing all of that with the world.
 
-Feel free to reach out to your mentor or anyone else on the team with questions, or try the [#dev Slack channel](https://bornfight.slack.com/messages/general-development) 🔒.
+Feel free to reach out to your mentor or anyone else on the team with questions, or try the
+[#dev Slack channel](https://bornfight.slack.com/messages/general-development) 🔒.
 
->  This is currently a heavy work in progress, so feel free to add a PR for whatever you think is needed. There is an [Up for grabs](topics-up-for-grabs.md) file you can check to get some ideas
+> This is currently a heavy work in progress, so feel free to add a PR for whatever you think is needed. There is
+> an [Up for grabs](topics-up-for-grabs.md) file you can check to get some ideas
 
 The repo is split out into different sections, each one has a summary of what's inside to make it easy to browse.
 
-If you are here because you are a new member of the team, we highly encourage you to look around and find ONE thing to add, edit or point out. It can be fixing a typo, adding an issue like "explain this in more detail please", or make a PR adding some relevant content where you see you could contribute. Small collaborations, distributed on a large number of people, can make this repo better for all of us!
-Have a look at [getting started](getting-started/first-notes.md)
- 
+If you are here because you are a new member of the team, we highly encourage you to look around and find ONE thing
+to add, edit or point out. It can be fixing a typo, adding an issue like "explain this in more detail please", or
+make a PR adding some relevant content where you see you could contribute. Small collaborations, distributed on a
+large number of people, can make this repo better for all of us! Have a look at
+[getting started](getting-started/first-notes.md)
+
 <!-- prettier-ignore-start -->
 <!-- start_toc -->
 | Section |  |
@@ -37,9 +44,9 @@ Have a look at [getting started](getting-started/first-notes.md)
 
 This repo is heavily inspired by the [README repo of Artsy](https://github.com/artsy/README).
 
-We believe the ideas, philosophy, culture, implementation and content expressed there is something that is both brilliant and inspiring.
-The repo is not forked, it is just a copy built on similar scripts and ideas, with their approval of course.
-
+We believe the ideas, philosophy, culture, implementation and content expressed there is something that is both
+brilliant and inspiring. The repo is not forked, it is just a copy built on similar scripts and ideas, with their
+approval of course.
 
 <a rel="license" href="https://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a>
 
@@ -47,9 +54,8 @@ The repo is not forked, it is just a copy built on similar scripts and ideas, wi
 
 This project is maintained by the developers at [Bornfight][footer_website].
 
-
-You can learn more about our work from [our blog][footer_blog] and by following
-[Bornfight on twitter][footer_twitter], [Facebook][footer_facebook] or [Instagram][footer_instagram]. 
+You can learn more about our work from [our blog][footer_blog] and by following [Bornfight on
+twitter][footer_twitter], [Facebook][footer_facebook] or [Instagram][footer_instagram].
 
 If you're interested in a career at Bornfight, take a look at our [careers page][footer_jobs]!
 
