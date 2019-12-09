@@ -18,7 +18,7 @@ description: Some projects Bornfight developers have made and have contributed t
 [RxTensions](https://github.com/bornfight/RxTensions) <br>
 [Loggyslav](https://github.com/bornfight/loggyslav) <br>
 [Avro to typescript](https://github.com/bornfight/avro-to-typescript) <br>
-[Transfer Object coverter](https://github.com/bornfight/transfer-object-converter) <br>
+[Transfer Object Converter](https://github.com/bornfight/transfer-object-converter) <br>
 
 ## Some helper tools, standards and lib aggregators we developed
 [Shared libs for Jenkins](https://github.com/bornfight/jenkins-shared-libraries) <br>
