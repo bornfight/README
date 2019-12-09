@@ -3,3 +3,5 @@ node_js:
   - "node"
 before_script:
   - bundle exec danger
+rvm:
+  - 2.0.0
