@@ -3,6 +3,8 @@ title: PHP
 description: Tools used in PHP development
 ---
 
+We always encourage usage of the latest stable version of [PHP](https://www.php.net/) language.
+
 ## Framework(s)
 
 New projects:<br>
