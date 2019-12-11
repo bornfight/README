@@ -1,6 +1,7 @@
 ---
-
-title: Email description: Tools and services used that are somehow related to sending and receiving email
+title: Email
+description: Tools and services used that are somehow related to sending and receiving email
+---
 
 We use [Postmark](http://postmarkapp.com/) for our "from-code" email sending.
 
