@@ -22,7 +22,6 @@ Consider them topics, that are still to be filled out, so feel free to type up a
 | [How to deal with Yii2 projects(playbooks/yii2.md)](playbooks/yii2.md)                                       | Intro on how things are setup on isolated Yii2 projects                         |
 | [Android(tools/android.md)](tools/android.md)                                                                | Tools used in Android development                                               |
 | [Documentation(tools/documentation.md)](tools/documentation.md)                                              | Tools used in regards to documenting things                                     |
-| [Email(tools/email.md)](tools/email.md)                                                                      | Tools and services used that are somehow related to sending and receiving email |
 | [Frontend(tools/frontend.md)](tools/frontend.md)                                                             | Tools used in frontend development                                              |
 | [Infrastructure(tools/infrastructure.md)](tools/infrastructure.md)                                           | Servers, services, ops, devops stuff that we use                                |
 | [iOS(tools/ios.md)](tools/ios.md)                                                                            | Tools used in iOS development                                                   |
