@@ -10,7 +10,6 @@ Consider them topics, that are still to be filled out, so feel free to type up a
 | [Operation Fruit Fly(culture/fruit-fly.md)](culture/fruit-fly.md)                                            | A simple framework for interrupting people the right way                        |
 | [Highlights(culture/highlights.md)](culture/highlights.md)                                                   | Some dev highlights we like to remember                                         |
 | [Team support(culture/support.md)](culture/support.md)                                                       | How we treat each other                                                         |
-| [Who we are(culture/who-we-are.md)](culture/who-we-are.md)                                                   | Insight into the team and what we deem important                                |
 | [Development onboarding program(onboarding/dev-onboarding.md)](onboarding/dev-onboarding.md)                 | How your first 2 months in Bornfight will look, specific to the dev team        |
 | [Notes for mentors and managers(onboarding/onboarding-for-mentors.md)](onboarding/onboarding-for-mentors.md) | Everything you need to know as a manager                                        |
 | [Notes for Team Leads(onboarding/onboarding-for-team-leads.md)](onboarding/onboarding-for-team-leads.md)     | Everything you need to know as a Team Lead in Bornfight                         |
@@ -29,7 +28,6 @@ Consider them topics, that are still to be filled out, so feel free to type up a
 | [iOS(tools/ios.md)](tools/ios.md)                                                                            | Tools used in iOS development                                                   |
 | [Javascript(tools/javascript.md)](tools/javascript.md)                                                       | Tools used in Javascript development                                            |
 | [Miscellaneous(tools/misc.md)](tools/misc.md)                                                                | A random assortment of other tools used that do not fit into any other category |
-| [PHP(tools/php.md)](tools/php.md)                                                                            | Tools used in PHP development                                                   |
 | [Quality Assurance(tools/quality-assurance.md)](tools/quality-assurance.md)                                  | Tools used in the QA process                                                    |
 | [Testing(tools/testing.md)](tools/testing.md)                                                                | Tools used in for testing purposes                                              |
 | [Wordpress(tools/wordpress.md)](tools/wordpress.md)                                                          | Tools used in Wordpress development                                             |
