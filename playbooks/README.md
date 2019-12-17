@@ -3,6 +3,7 @@
 | Title | Overview |
 |---|---|
 | [Code reviews](/playbooks/code-review.md#readme) | How our code review process works |
+| [Commit messages](/playbooks/commit-messages.md#readme) | How to write great commit messages |
 | [Domains](/playbooks/domains.md#readme) | Tools and services related to domains |
 | [Estimates](/playbooks/estimates.md#readme) | Things to think about when estimating a project/feature |
 | [The how and what of Jenkins](/playbooks/jenkins.md#readme) | Everything you need to know on how to use Jenkins for CI/CD |
