@@ -32,6 +32,7 @@ large number of people, can make this repo better for all of us! Have a look at
 | [Best practices](/best-practises#readme) | Knowledge we would like to share, gathered through the years |
 | [Careers](/careers#readme) | How our team is structured, and where you fit in |
 | [Culture](/culture#readme) | The ideas, philosophy and values we consider important at Bornfight |
+| [Education](/education#readme) | Some basic materials  |
 | [Getting started](/getting-started#readme) | Some insight on how to start stuff |
 | [History](/history#readme) | How we and our work evolved through the years |
 | [Knowledge base](/knowledge-base#readme) | Stuff we do to stay on top of things! |

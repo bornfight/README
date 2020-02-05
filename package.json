@@ -36,7 +36,7 @@
   },
   "license": "CC-BY-4.0",
   "dependencies": {
-    "danger": "^9.2.9",
+    "danger": "^9.2.10",
     "husky": "^3.1.0"
   }
 }
