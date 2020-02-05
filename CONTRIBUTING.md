@@ -34,8 +34,10 @@ This repo has some useful automation set up for it to generate tables of content
 - Enables running [doctoc](https://github.com/thlorenz/doctoc#readme) on any file with `<!-- START doctoc`
 - Adds every contentless .md file to the [topics-up-for-grabs](topics-up-for-grabs.md).
 
-After adding files, run `yarn setup-structure` to generate tables of contents and other useful files. This could
-later be done on commit, but for now it is done manually.
+After adding files, run `yarn setup-structure` to generate tables of contents and other useful files. ~~This could
+later be done on commit, but for now it is done manually.~~ There is a precommit hook for this, so be sure to
+install all the dependencies, since it uses [husky](https://github.com/typicode/husky) for this.
+
 
 Each markdown file in a section uses [yaml front-matter](https://jekyllrb.com/docs/frontmatter/) to add a
 description and title to the document, which are used to generate a `README.md` for each section.
