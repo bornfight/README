@@ -30,15 +30,15 @@ large number of people, can make this repo better for all of us! Have a look at
 | Section |  |
 |---|---|
 | [Best practices](/best-practises#readme) | Knowledge we would like to share, gathered through the years |
-| [A career at Bornfight](/careers#readme) | How our team is structured, and where you fit in |
-| [Culture is important](/culture#readme) | The ideas, philosophy and values we consider important at Bornfight |
-| [Everything we do to keep us smart](/education#readme) | Stuff we do to stay on top of things! |
-| [An entry point for different situations](/getting-started#readme) | Some insight on how to start stuff |
-| [History of software development at Bornfight](/history#readme) | How we and our work evolved through the years |
-| [Onboarding information](/onboarding#readme) | Everything about how your first few months are going to look |
+| [Careers](/careers#readme) | How our team is structured, and where you fit in |
+| [Culture](/culture#readme) | The ideas, philosophy and values we consider important at Bornfight |
+| [Getting started](/getting-started#readme) | Some insight on how to start stuff |
+| [History](/history#readme) | How we and our work evolved through the years |
+| [Knowledge base](/knowledge-base#readme) | Stuff we do to stay on top of things! |
+| [Onboarding](/onboarding#readme) | Everything about how your first few months are going to look |
 | [Open source](/open-source#readme) | Stuff we made, fixed, and use regarding open source |
-| [How to actually do a particular task at Bornfight](/playbooks#readme) | Entry point for specific things |
-| [The tools we use](/tools#readme) | All the tools(programs, services,etc) we use in our every day life |
+| [Playbooks](/playbooks#readme) | Entry point for specific things |
+| [Tools](/tools#readme) | All the tools(programs, services,etc) we use in our every day life |
 <!-- end_toc -->
 <!-- prettier-ignore-end -->
 
