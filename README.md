@@ -1,4 +1,4 @@
-# Bornfight Development ![Travis](https://api.travis-ci.org/bornfight/README.svg?branch=master)
+# Bornfight Development ! [<img src="https://api.travis-ci.org/bornfight/README.svg?branch=master">](https://travis-ci.org/bornfight/README/)
 
 Welcome to Bornfight!
 
