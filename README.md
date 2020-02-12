@@ -60,6 +60,9 @@ twitter][footer_twitter], [Facebook][footer_facebook] or [Instagram][footer_inst
 
 If you're interested in a career at Bornfight, take a look at our [careers page][footer_jobs]!
 
+If you are interested in what we use on a daily basis, check out our
+[Tech radar](https://radar.thoughtworks.com/?sheetId=https://docs.google.com/spreadsheets/d/1shVtPe0lVuLsaID74XRwMIz0PuVHHrrc3GQ6-DNa2dQ/edit&sheetName=All)
+
 [footer_website]: https://www.bornfight.com/?utm_source=readmerepo&utm_medium=github&utm_campaign=readmerepo
 [footer_facebook]: http://facebook.com/bornfight.company
 [footer_instagram]: https://www.instagram.com/bornfight/
