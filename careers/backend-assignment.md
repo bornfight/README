@@ -3,7 +3,7 @@ title: Backend assignment
 description: A simple task to evaluate your skillset
 ---
 
-# Welcome to the "Army assignment" for becoming a Bornfight backend developer!
+# Welcome to the Bornfight "Army assignment" instructions!
 
 You may have gotten this link during our selection process for becoming a part of our team. If so, read on, this is
 what you need to do!
