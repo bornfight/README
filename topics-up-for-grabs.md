@@ -7,7 +7,6 @@ Consider them topics, that are still to be filled out, so feel free to type up a
 | Title                                                                                                        | Overview                                                                        |
 | ------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------- |
 | [Team structure(careers/team-structure.md)](careers/team-structure.md)                                       | Some insight of how things tick from the inside                                 |
-| [Operation Fruit Fly(culture/fruit-fly.md)](culture/fruit-fly.md)                                            | A simple framework for interrupting people the right way                        |
 | [Highlights(culture/highlights.md)](culture/highlights.md)                                                   | Some dev highlights we like to remember                                         |
 | [Team support(culture/support.md)](culture/support.md)                                                       | How we treat each other                                                         |
 | [Development onboarding program(onboarding/dev-onboarding.md)](onboarding/dev-onboarding.md)                 | How your first 2 months in Bornfight will look, specific to the dev team        |
