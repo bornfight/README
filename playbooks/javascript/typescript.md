@@ -3,9 +3,10 @@ title: TypeScript
 description: Best practices, rules, guides, and everything in between
 ---
 
-Notice ⚔️: These are not "set in stone" rules, but should be followed as much as possible. We use tslint/eslint
-linters for stuff that we can check with static analysis, but in this document are written architectural principles
-that can not be "easily" checked with current tools.
+Notice ⚔️: These are not "set in stone" rules, but should be followed as much as possible. We use
+[tslint/eslint linters](https://github.com/bornfight/js-coding-standards#readme) for stuff that we can check with
+static analysis, but in this document are written architectural principles that can not be "easily" checked with
+current tools.
 
 # Collocation
 
