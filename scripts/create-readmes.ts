@@ -4,17 +4,35 @@ import * as getYAMLHeadline from "markdown-yaml-metadata-parser"
 import { execSync } from "child_process"
 import * as glob from "glob"
 import { join } from "path"
+import * as path from "path"
 
-const skipFolders = ["node_modules", "scripts", "static"]
+function findReadmeFolders(dir, excludedFolders: string[] = []): string[] {
+  let result = []
+  fs.readdirSync(dir).forEach(f => {
+    let dirPath = path.join(dir, f)
+    if (
+      //Exclude folders from excludedFolders param, folders that start with "." and nonDirs
+      includes(excludedFolders, dirPath) ||
+      f.indexOf(".") === 0 ||
+      !fs.statSync(dirPath).isDirectory()
+    )
+      return
+
+    result.push(dirPath)
+    let innerFolders = findReadmeFolders(dirPath)
+    if (innerFolders) {
+      for (let i in innerFolders) result.push(innerFolders[i])
+    }
+  })
+  return result
+}
+
+const skipFolders = ["node_modules", ".git", "scripts", "static"]
 const UFGFile = "topics-up-for-grabs.md"
 const aboveTOC = "<!-- prettier-ignore-start -->\n<!-- start_toc -->"
 const belowTOC = "<!-- end_toc -->\n<!-- prettier-ignore-end -->"
 
-const readmeFolders = fs
-  .readdirSync(".")
-  .filter(f => fs.lstatSync(f).isDirectory()) // dirs only
-  .filter(f => !includes(skipFolders, f)) // ignore particular folders
-  .filter(f => f.indexOf(".") !== 0) // no .git or .vscode
+let readmeFolders: string[] = findReadmeFolders(".", skipFolders)
 
 const UFGText =
   "# These are all the files that have .md files but no content.\n\n" +
@@ -71,27 +89,30 @@ const content = fs.readFileSync("README.md", "utf8")
 const before = `${content.split(aboveTOC)[0]}${aboveTOC}\n`
 const after = `\n${belowTOC}${content.split(belowTOC)[1]}`
 
-const docs = readmeFolders.map(f => {
-  const jsonPath = join(f, "summary.json")
-  if (!fs.existsSync(jsonPath)) {
-    return `| [[TODO] Add a summary.json to ${f}](/${f}) | [TODO] |`
-  } else {
-    const settings = JSON.parse(fs.readFileSync(jsonPath, "utf8"))
-    return `| [${settings.title}](/${f}#readme) | ${settings.description} |`
-  }
-})
+const docs = readmeFolders
+  .map(f => {
+    const jsonPath = join(f, "summary.json")
+    //Remove subfolder table of contents in main readme
+    if (jsonPath.match(/\//g).length === 1) {
+      if (!fs.existsSync(jsonPath)) {
+        return `| [[TODO] Add a summary.json to ${f}](/${f}) | [TODO] |`
+      } else {
+        const settings = JSON.parse(fs.readFileSync(jsonPath, "utf8"))
+        return `| [${settings.title}](/${f}#readme) | ${settings.description} |`
+      }
+    }
+    return false
+  })
+  .filter(line => line != false)
+
 const inside = `| Section |  |\n|---|---|\n${docs.join("\n")}`
 const newContent = `${before}${inside}${after}`
 fs.writeFileSync("README.md", newContent, "utf8")
 
 // Update the TOC on files that have the "<!-- START doctoc -->" tag
-glob("**/**/*.md", (err, matches) => {
+glob("!(node_modules)/**/**/*.md", (err, matches) => {
   matches.forEach(f => {
-    // Skip those modules
-    if (f.indexOf("node_modules") !== -1) {
-      return
-    }
-
+    // console.log(f);
     const content = fs.readFileSync(f, "utf8")
     if (content.indexOf("<!-- START doctoc ") !== -1) {
       execSync(`yarn doctoc ${f}`)
