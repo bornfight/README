@@ -101,6 +101,7 @@ const docs = readmeFolders
         return `| [${settings.title}](/${f}#readme) | ${settings.description} |`
       }
     }
+
     return false
   })
   .filter(line => line != false)
@@ -112,7 +113,6 @@ fs.writeFileSync("README.md", newContent, "utf8")
 // Update the TOC on files that have the "<!-- START doctoc -->" tag
 glob("!(node_modules)/**/**/*.md", (err, matches) => {
   matches.forEach(f => {
-    // console.log(f);
     const content = fs.readFileSync(f, "utf8")
     if (content.indexOf("<!-- START doctoc ") !== -1) {
       execSync(`yarn doctoc ${f}`)
