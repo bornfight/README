@@ -50,6 +50,7 @@ can do your very best.
 - Visual layout of the solution
 - Frontend of the solution
 - Graphical interface of the solution (if you choose to make one)
+- Usage instructions and simple documentation
 
 ## How to submit your solution:
 
@@ -61,7 +62,6 @@ You can submit your result in a zip file and send it through an email or use a G
 - Use types
 - A linter passing codebase
 - Implement error handling and/or logging
-- Provide simple documentation
 
 #### In case of using a framework, use an existing open source module and integrate it into the solution
 
