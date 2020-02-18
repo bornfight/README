@@ -1,5 +1,3 @@
-### [TODO]
-
 <!-- prettier-ignore-start -->
 <!-- start_toc -->
 | Title | Overview |
@@ -9,5 +7,3 @@
 | [TypeScript](/playbooks/javascript/typescript.md#readme) | Best practices, rules, guides, and everything in between |
 <!-- end_toc -->
 <!-- prettier-ignore-end -->
-
-[TODO]
