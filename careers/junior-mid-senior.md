@@ -1,11 +1,11 @@
 ---
 title: Junior/Mid/Senior positioning
-description: How we define your role in the team
+description: How we define roles in our team ?
 ---
 
 ### Recently we have published a great e-book about how we position our team members regarding their seniority.
 
-## The basic idea is there are 3 levels per tier:
+## There are 3 levels per tier:
 
 -   Junior 1
 -   Junior 2
@@ -19,13 +19,13 @@ description: How we define your role in the team
 
 ## In addition, a possible add-on modifier to your position is:
 
--   Team Lead 2
 -   Team Lead 1
+-   Team Lead 2
 -   Team Lead 3
 
-Which define your role in developing people and making them grow on the seniority scale.
+This add-on defines your role as team leader responsible for team members' career development and their position.
 
-The document is very thorough defining every aspect of every position in detail, in regard to 4 main categories
+The document is very thorough defining every aspect of every position in detail, in regards to 4 main categories
 that can fit into any job description (it doesn't necessarily have to be a dev role, it aims to be agnostic of the
 actual job)
 
