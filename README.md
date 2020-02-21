@@ -63,6 +63,10 @@ If you're interested in a career at Bornfight, take a look at our [careers page]
 If you are interested in what we use on a daily basis, check out our
 [Tech radar](https://radar.thoughtworks.com/?sheetId=https://docs.google.com/spreadsheets/d/1shVtPe0lVuLsaID74XRwMIz0PuVHHrrc3GQ6-DNa2dQ/edit&sheetName=All)
 
+If you want to see how our office (4th floor) looks like, but don't have the time to visit, check out
+[this amazing repo with a 3D version of it](https://github.com/bornfight/After5) - a project by
+[@ilesar](https://github.com/ilesar)
+
 [footer_website]: https://www.bornfight.com/?utm_source=readmerepo&utm_medium=github&utm_campaign=readmerepo
 [footer_facebook]: http://facebook.com/bornfight.company
 [footer_instagram]: https://www.instagram.com/bornfight/
