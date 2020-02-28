@@ -37,4 +37,4 @@ Please feel free to add stuff as they happen or add anything that is missed.
 -   25.09.2017 - Dev weekly meeting initiated
 -   20.03.2017 - [Bornfight medium publication](https://medium.com/@bornfight) created
 -   15.09.2016 - Opened our internal DevEdu blog
--   17.02.2016 - Started recording weekly educations educations
+-   17.02.2016 - Started recording weekly educations
