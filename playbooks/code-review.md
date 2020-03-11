@@ -28,12 +28,12 @@ If there is someone else who should see this PR, he/she should be assigned as As
 3. After a reviewer is selected, responsibility for this PR is transfered to him/her. Reviewer has options to:
 	1. Do a Code Review and Approve PR.
 	2. Do a Code Review and Request Changes on the PR.
-	3. Return a response that he/she will be able to do Code Review some time later.
-	d. Return a response that he/she wont be able to do a Code Review.
+	3. Return a response that he/she will be able to do Code Review some time later (say when).
+	4. Return a response that he/she wont be able to do a Code Review.
 4. After a reviewer has responded (3a,3b,3c,3d), the PR creator has to do one of the following:
-	1. (3a) Merge PR.
-	2. (3b) Make changes.
-	3. (3c,3d) find someone else for the Code Review.
+	1. (3.1) Merge PR.
+	2. (3.2) Make changes.
+	3. (3.3,3.4) find someone else for the Code Review.
 5. Repeat 3. and 4. untill the PR is merged.
 
 ### Important Notes:
