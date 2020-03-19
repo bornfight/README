@@ -54,6 +54,7 @@ Rules on..
 -   Take your time doing Code Review. Minimum time spent on Code Review should be around 10 minutes.
 -   A code review should be done inside 24 hours. You can set up _personal slack reminders_ on
     [Pull Panda](https://pullreminders.com/installs/3583407/me) that notify you if have something new for review.
+    The app is already installed in our company's slack, but you can tweak notifications to your liking.
 -   If there is a larger PR, notify your project manager that it will take you longer to review.
 -   In order for Code review to be as efficient as possible, try to break functionalities into smaller PR-s. A PR
     should consist of no more than 20 files.
