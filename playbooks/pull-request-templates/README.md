@@ -2,6 +2,7 @@
 <!-- start_toc -->
 | Title | Overview |
 |---|---|
+| [Pull request template backend](/playbooks/pull-request-templates/pull-request-backend.md#readme) | PR Template Backend |
 | [Pull request template frontend react](/playbooks/pull-request-templates/pull-request-frontend-react.md#readme) | PR Template React |
 <!-- end_toc -->
 <!-- prettier-ignore-end -->
