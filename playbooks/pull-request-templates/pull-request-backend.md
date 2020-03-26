@@ -3,10 +3,7 @@ title: Pull request template backend
 description: PR Template Backend
 ---
 
-## Jira issue
-
-Url to task.
-
+[Jira issue](*link*)
 ## Summary
 
 Short summary what this PR adds to the project.
