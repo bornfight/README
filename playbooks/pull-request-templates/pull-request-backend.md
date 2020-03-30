@@ -13,7 +13,7 @@ Short summary what this PR adds to the project.
 Note the most important parts that have changed so the reviewer knows what to look.
 
 ## How was it tested
-
+-   [ ] Postman tests (manual)
 -   [ ] unit tests
 -   [ ] integration tests
 -   [ ] API tests
