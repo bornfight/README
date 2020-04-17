@@ -20,7 +20,7 @@ Rules on..
 ### Rules:
 1. Every PR has to be reviewed, with the exception of fix/hotfix PR-s that can be merged by the code owner on his own responsibility.
 2. When creating a PR, you should select **EXACTLY ONE** person as a reviewer. This person has to be someone who is working at the moment (not on vacation). 
-If there is someone else who should see this PR, he/she should be assigned as Assignee on this PR.
+If there is someone else who should see this PR, he/she should be assigned as Assignee on this PR. An Assignee is just an "interested party", someone who can review, but doesn't have to and has zero responsibility for a PR.
 	Reviewer Priority list:
 	1. Most senior developer on the project (excluding you).
 	2. Anyone else on the project.
