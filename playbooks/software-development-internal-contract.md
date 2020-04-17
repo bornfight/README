@@ -1,4 +1,8 @@
-# Software Development Contract - internal
+---
+title: Software Development Contract - internal
+description:
+    This document is designed to explain in what manner will software dev. dept. members contribute to a project.
+---
 
 ## Functional specification
 
