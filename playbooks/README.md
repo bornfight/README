@@ -2,6 +2,7 @@
 <!-- start_toc -->
 | Title | Overview |
 |---|---|
+| [Active mentorship](/playbooks/active-mentorship.md#readme) | Guide for practicing active mentorship between a mentor and mentee |
 | [CodeDeploy and the anatomy of a deploy](/playbooks/anatomy-of-a-deploy.md#readme) | How deployment works through Jenkins and CodeDeploy |
 | [Code reviews](/playbooks/code-review.md#readme) | How our code review process works |
 | [Commit messages](/playbooks/commit-messages.md#readme) | How to write great commit messages |
