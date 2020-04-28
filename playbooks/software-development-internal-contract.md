@@ -168,6 +168,6 @@ description:
         -   To communicate roadblocks, impediments and ask for help
         -   To have a responsibility towards the Tech. Lead for feature implementation
     -   What you can’t expect from the person performing this role:
-        -   Complete independence while doing its work
+        -   Complete autonomy while working
         -   To take responsibility for software delivery
         -   To be familiar with software business logic in detail
