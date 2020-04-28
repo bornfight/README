@@ -49,7 +49,7 @@ description:
 
     -   Actors: client, user, tablet application
     -   Requirements:
-        -   I, as a user, have a new client, and I want to store his information. This functionality is used in two
+        -   I, as a user, have a new client, and I want to store this client's information. This functionality is used in two
             cases. I can add a new client after the offer is already made or I can add a new client without
             creating any offers.
     -   Steps:
