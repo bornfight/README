@@ -13,5 +13,5 @@ The routine can be practiced as follows:
 
 -   keep the mentoring session short and focused
 -   maximum time is 30 minutes
--   no minimum time is specified, meaning the session does not have to be help if there are no topics to discuss
+-   no minimum time is specified, meaning the session does not have to happen if there are no topics to discuss
 -   the mentee should prepare specific questions
