@@ -15,3 +15,4 @@ The routine can be practiced as follows:
 -   maximum time is 30 minutes
 -   no minimum time is specified, meaning the session does not have to happen if there are no topics to discuss
 -   the mentee should prepare specific questions
+-   the mentee can track discussed topics, conclusions and ideas inside a dedicated mentor-mentee doc, visible to both parties
