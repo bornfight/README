@@ -15,7 +15,7 @@ description:
     -   There is a “single source of truth” for reference in case of misunderstanding
     -   A change request is easier to define
     -   Efficiency increases because we can predict potential problems from the very start of software development
-    -   A need for back-and-forth communication between a client and us is decreased
+    -   A need for back-and-forth communication between the client and our side is decreased
 -   Because of the aforementioned reasons, the functional specification is a “must-have”
 -   The author of the functional specification should be the PO (The project owner), that has full support from all
     Technical Project Leads involved in the project (i.e. Design Tech. Lead, Frontend Tech. Lead, Backend Tech.
