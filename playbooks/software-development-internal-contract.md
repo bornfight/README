@@ -8,7 +8,7 @@ description:
 
 -   An official document as an absolute requirement for development to start
 -   It provides an answer to:
-    -   Which software functionalities are we going to develop?
+    -   Which software functionalities are to be developed?
 -   By using it:
     -   Differences between client expectations, and our implementation can be greatly decreased
     -   The chances of misunderstanding between people involved in a project can be decreased
