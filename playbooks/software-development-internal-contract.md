@@ -22,7 +22,7 @@ description:
     Lead...)
 -   Example:
     -   🔒
-        [Roltek App functional specification](https://docs.google.com/document/d/1Tj-T56SVzhAdRu5w00p5Ie5n5CyeLjtsTRigBL3_blM/edit#)
+        [Example App functional specification](https://docs.google.com/document/d/1Tj-T56SVzhAdRu5w00p5Ie5n5CyeLjtsTRigBL3_blM/edit#)
 
 ## Functional specification break down to task level
 
