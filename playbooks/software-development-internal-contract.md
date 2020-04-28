@@ -137,7 +137,7 @@ description:
     -   Exclusively responsible for software delivery
     -   Senior-level or Middle-level developers
     -   Is in charge of task break down
-    -   _This role brings with it an increased level of responsibility for the software delivery in a predicted
+    -   _This role comes with increased level of responsibility for the software delivery in a predicted
         deadline_
     -   What can you expect from the person performing this role:
         -   To take responsibility for software delivery
