@@ -12,7 +12,7 @@ description:
 -   By using it:
     -   Differences between client expectations, and our implementation can be greatly decreased
     -   The chances of misunderstanding between people involved in a project can be decreased
-    -   There is a “single source of truth” to which all parties can rely upon if a misunderstanding occurs
+    -   There is a “single source of truth” for reference in case of misunderstanding
     -   A clear difference can be seen between “functionalities agreed upon" and "change requests"
     -   Efficiency increases because we can predict potential problems from the very start of software development
     -   A need for back-and-forth communication between a client and us is decreased
