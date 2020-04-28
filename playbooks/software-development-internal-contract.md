@@ -142,7 +142,7 @@ description:
     -   What can you expect from the person performing this role:
         -   To take responsibility for software delivery
         -   To be familiar with software business logic in detail
-        -   To know the answer to all of your questions about software requirements, business logic or technical
+        -   To know answers to all of your questions about software requirements, business logic or technical
             implementation details
         -   To assist in functional specification creation
         -   To do mayor estimates
