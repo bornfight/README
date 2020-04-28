@@ -1,6 +1,6 @@
 ---
 title: When to use a Symfony Messenger component 🚚
-description: A brief guideline on when is the right time to use a Symfony Messenger component
+description: A brief guideline on when to use a Symfony Messenger component
 ---
 
 Symfony Messenger is a very powerful component that allows you to implement some level of concurrency in your
