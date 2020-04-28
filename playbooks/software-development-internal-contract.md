@@ -13,7 +13,7 @@ description:
     -   Differences between client expectations, and our implementation can be greatly decreased
     -   The chances of misunderstanding between people involved in a project can be decreased
     -   There is a “single source of truth” for reference in case of misunderstanding
-    -   A clear difference can be seen between “functionalities agreed upon" and "change requests"
+    -   A change request is easier to define
     -   Efficiency increases because we can predict potential problems from the very start of software development
     -   A need for back-and-forth communication between a client and us is decreased
 -   Because of the aforementioned reasons, the functional specification is a “must-have”
