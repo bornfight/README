@@ -6,7 +6,7 @@ description:
 
 ## Functional specification
 
--   An official document without which the development shouldn’t be started
+-   An official document as an absolute requirement for development to start
 -   It provides an answer to:
     -   Which software functionalities are we going to develop?
 -   By using it:
