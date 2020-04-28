@@ -7,7 +7,7 @@ Symfony Messenger is a very powerful component that allows you to implement some
 PHP/Symfony projects that are usually non-concurrent.
 
 More info about it can be found in
-[official documentation.](https://symfony.com/doc/current/components/messenger.html) A really nice tutorial can ba
+[official documentation.](https://symfony.com/doc/current/components/messenger.html) A really nice tutorial can be
 found on [Symfonycasts.](https://symfonycasts.com/screencast/messenger) And we also have an internal education
 recorded from Week #48 (if you don't know where to find it, contact your nearest team-lead).  
 If you are wondering how to notify the client when concurrent job has been finished, take a look at  
