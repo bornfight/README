@@ -15,7 +15,7 @@ the [Mercure protocol and Symfony Mercure component](https://symfony.com/doc/cur
 
 ### When to use the Messenger component?
 
-If you are here because you want to know should you use the Messenger component, go through the cases below, and if
+If you are here because you want to know if you should  use the Messenger component, go through the cases below, and if
 your case matches any of it, you have the green light ✅.
 
 #### There are two general cases when you might want to use Messenger component:
