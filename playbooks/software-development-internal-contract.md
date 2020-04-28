@@ -161,7 +161,7 @@ description:
 -   Maker
     -   All seniority levels
     -   A person that is in charge of implementing features based on feature tasks and subtasks
-    -   Has a lot less responsibility for software delivery
+    -   Delivery responsibility is mainly focused on tasks and features, depending on the maker seniority level
     -   What can you expect from the person performing this role:
         -   To do feature implementation based on the tasks and subtasks
         -   To estimate feature implementation
