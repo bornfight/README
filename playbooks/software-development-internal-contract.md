@@ -165,7 +165,7 @@ description:
     -   What can you expect from the person performing this role:
         -   To do feature implementation based on the tasks and subtasks
         -   To estimate feature implementation
-        -   To communicate its road-block, impediments or requests help
+        -   To communicate roadblocks, impediments and ask for help
         -   To have a responsibility towards the Tech. Lead for feature implementation
     -   What you can’t expect from the person performing this role:
         -   Complete independence while doing its work
