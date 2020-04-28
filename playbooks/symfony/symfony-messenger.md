@@ -28,3 +28,7 @@ your case matches any of it, you have the green light ✅.
     1. Your software is sending requests to the 3rd party API, but you have no control over the order in which the
        requests are being sent - i.e. one request might still be waiting for the response, in the meantime, another
        request has already received its response
+
+
+A list of projects that are already using Symfony Messenger component:
+- 🔒 [Pilot project](https://github.com/bornfight/yipac-backend)
