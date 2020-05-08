@@ -1,6 +1,6 @@
 ---
 title: JavaScript app project requirements checklist
-description: A checklist for setting up JavaScript wep app projects by Bornfight standards.
+description: A checklist for setting up JavaScript web app projects by Bornfight standards.
 ---
 
 -   [ ] TypeScript
