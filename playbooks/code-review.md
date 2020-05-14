@@ -39,7 +39,7 @@ If there is someone else who should see this PR, he/she may be assigned as an As
     1. Code owner mentioned in CODEOWNERS (when applicable/CODEOWNERS file is present).
 	2. The most senior developer on the project (excluding yourself).
 	3. Anyone else on the project.
-	4. Anyone else. (predetermined as a backup)
+	4. Anyone else, use [slack #development-codereview](https://bornfight.slack.com/archives/C013098CQ92) 🔒 to find a reviewer
 3. After a reviewer is selected, responsibility for this PR is transfered to him/her. Reviewer has options to:
 	1. Do a Code Review and Approve PR.
 	2. Do a Code Review and Request Changes on the PR.
