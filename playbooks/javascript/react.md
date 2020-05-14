@@ -3,6 +3,11 @@ title: React
 description: Reference book for writing React applications and components
 ---
 
+## Hooks
+Hooks api is the future, pursuing coding in such manner is a must.
+ - Useful [hooks](https://github.com/rehooks/awesome-react-hooks) reference
+ - [RestHooks](https://resthooks.io/)
+
 ## State management
 
 ### Redux
@@ -12,7 +17,9 @@ description: Reference book for writing React applications and components
 
 ## Styling
 
-1. favor **presentational component composition** over explicit styles
+1. consider using css preprocessors such as [Sass](https://sass-lang.com/) and [css-modules](https://github.com/css-modules/css-modules)
+
+2. favor **presentational component composition** over explicit styles
    - encapsulate styling and presentational logic inside components as much as you can and make them modifiable
      with props
 
@@ -60,3 +67,9 @@ const MyCustomForm: React.FunctionComponent = () => {
   forget the unique key on each element!
 - Instead of divs you can use React.fragment (<></>) as a wrapper. It doesn't add any extra nodes to the DOM and
   can only accept the "key" attribute.
+  
+## Imports
+
+- Absolute paths instead of relative ones are thought to be an [advantage](https://medium.com/beqode/absolute-vs-relative-import-paths-nodejs-1e4efa65a7bb) when building an app, consider using them.
+- Absolute path example: import Button from "src/views/atoms/buttons",
+- Relative path example: import Button from "../../atoms/buttons",
