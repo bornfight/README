@@ -24,7 +24,7 @@ If there is someone else who should see this PR, he/she should be assigned as As
 	Reviewer Priority list:
 	1. Most senior developer on the project (excluding you).
 	2. Anyone else on the project.
-	3. Anyone else. (predetermined as a backup)
+	3. Anyone else, find using slack channel [#development-codereview (https://bornfight.slack.com/archives/C013098CQ92) 🔒
 3. After a reviewer is selected, responsibility for this PR is transfered to him/her. Reviewer has options to:
 	1. Do a Code Review and Approve PR.
 	2. Do a Code Review and Request Changes on the PR.
