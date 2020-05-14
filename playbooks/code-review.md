@@ -52,7 +52,7 @@ If there is someone else who should see this PR, he/she may be assigned as an As
 	* (3.c, 3.d) find someone else for the Code Review.
 5. Repeat 3. and 4. untill the PR is merged.
 
-### Important Notes:
+### Helpful notes:
  - Keep pull requests short. They should not have to take a long time to review, and therefore should not include a lot of code.
  - Try to break functionalities into smaller PRs. You should prefer multiple PRs as opposed to one giant PR which includes all the changes. [<sup>[2]</sup>](https://github.com/bornfight/README/pull/38/files#r422118361)
  - A Code Review shouldn't distract anyone from doing his or her current task. Ideally, a Code Review is done after a meeting, lunch or finishing a task or your own PR.
