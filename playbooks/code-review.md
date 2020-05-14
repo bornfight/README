@@ -20,7 +20,7 @@ Because of these reasons, we at Bornfight believe Code Reviews are a very import
 
 #### Reviewing other people's code is the responsibility of every developer
 
-### Glossary:
+### Glossary
  - PR - Pull Request.
  - PR creator - the person who created the PR and requested the Code Review.
  - Reviewer - the person responsible to Code Review the PR.
@@ -32,7 +32,7 @@ Your PR is ready for review iff the following is true
 * CI has passed the build
 * There is no WIP in the PR title
 
-### Rules:
+### Rules
 1. Every PR should be reviewed, except for hotfix PR-s that can be merged by the code owner on his own responsibility. Merging a hotfix requires writing a desription on why it was necessary to merge it without review. 
 2. When creating a PR, you must select **EXACTLY ONE** person as a reviewer. This way, the person selected as a reviewer knows he/she is the only one responsible for reviewing this PR. This person has to be someone who is currently availlable (not on vacation, sick leave, etc.).
 If there is someone else who should see this PR, he/she may be assigned as an Assignee on this PR. An Assignee is just an "interested party", someone who may review, but doesn't have to and has zero responsibility for a PR.
@@ -52,7 +52,7 @@ If there is someone else who should see this PR, he/she may be assigned as an As
 	* (3.c, 3.d) find someone else for the Code Review.
 5. Repeat 3. and 4. untill the PR is merged.
 
-### Helpful notes:
+### Helpful notes
  - Keep pull requests short. They should not have to take a long time to review, and therefore should not include a lot of code.
  - Try to break functionalities into smaller PRs. You should prefer multiple PRs as opposed to one giant PR which includes all the changes. [<sup>[2]</sup>](https://github.com/bornfight/README/pull/38/files#r422118361)
  - A Code Review shouldn't distract anyone from doing his or her current task. Ideally, a Code Review is done after a meeting, lunch or finishing a task or your own PR.
