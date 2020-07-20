@@ -73,3 +73,22 @@ const MyCustomForm: React.FunctionComponent = () => {
 - Absolute paths instead of relative ones are thought to be an [advantage](https://medium.com/beqode/absolute-vs-relative-import-paths-nodejs-1e4efa65a7bb) when building an app, consider using them.
 - Absolute path example: import Button from "src/views/atoms/buttons",
 - Relative path example: import Button from "../../atoms/buttons",
+
+## CSS & SCSS
+
+- Classes are used as css modules, which means the classes are scoped based on the component. In other words, usage of BEM is unnecessary, just write the classes with intuitive meanings.
+- Prefer to write classNames using camelCase. That way the IntelliJ can figure out which class you want to use, and propose a suggestion (provided that the class itself was first written). Please look at the following example:
+`<div className={styles.menuItemWidth}>container</div>` ✅	
+`<div className={styles["menu-item-width"]}>container</div>` ❌
+- If antd components are being used, this is a way to override them in their respective scope:
+`.table {
+    margin-top: 20px;
+
+    :global(.ant-table-thead tr .ant-table-cell:last-child) {
+        width: 50px;
+    }
+
+    :global(.ant-table-tbody tr .ant-table-cell:last-child) {
+        width: 50px;
+    }
+}`
