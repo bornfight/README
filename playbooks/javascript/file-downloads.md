@@ -1,7 +1,9 @@
 ---
-title: Axios
-description: Tips and tricks on how to handle API calls inside your app with Axios
+title: File downloads
+description: Implementation methods on how to handle file downloads in your app
 ---
+
+#Axios implementation
 
 ## Fetching a file
 There are two ways to allow a user to download a file from your API:
@@ -18,3 +20,4 @@ In case the file is being generated on the fly and isn't saved anywhere, there a
 3. You can now simply trigger the download modal and download the file. I've used the [download js library](https://www.npmjs.com/package/downloadjs) to handle that for me.
 4. If you're using downloadjs, don't forget to set the mime type to avoid corrupted files - download(data, strFileName, *strMimeType*);
 
+___
