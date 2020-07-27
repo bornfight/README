@@ -13,7 +13,7 @@ This option is pretty easy to implement and is not connected to Axios all that m
 
 ### Fetching a file
 In case the file is being generated on the fly and isn't saved anywhere, there are a couple of things to watch out for when downloading such files.
-1. Make sure your [request config](https://www.w3schools.com/tags/att_a_download.asp) has `responseType` has the value `blob` instead of `json`. This will indicate the type of data the server will respond with.
+1. Make sure your [request config](https://github.com/axios/axios#request-config) has `responseType` has the value `blob` instead of `json`. This will indicate the type of data the server will respond with.
 2. After you've set the appropriate response type, the data property of the response will contain a Blob.
 3. You can now simply trigger the download modal and download the file. I've used the [download js library](https://www.npmjs.com/package/downloadjs) to handle that for me.
 4. If you're using downloadjs, don't forget to set the mime type to avoid corrupted files - download(data, strFileName, *strMimeType*);
