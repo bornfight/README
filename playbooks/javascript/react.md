@@ -8,6 +8,39 @@ Hooks api is the future, pursuing coding in such manner is a must.
  - Useful [hooks](https://github.com/rehooks/awesome-react-hooks) reference
  - [RestHooks](https://resthooks.io/)
 
+ We have written two short and useful blogs about hooks check them out:
+  - [React hooks cheat sheet](https://dev.to/bornfightcompany/react-hooks-cheat-sheet-3kl9)
+  - [How to: ReactJs custom hooks](https://dev.to/bornfightcompany/how-to-reactjs-custom-hooks-1617)
+ 
+A whole project has been written completely in hooks, which confirms the safe usage and further encourages the usage of hooks.
+When using hooks, a React developer should think of basic lifecycle events that came before them. In essence it helps in writing hooks in general. 
+#### Best practices
+UseState
+- Try to write multiple simple useState hooks if the component's data is not that complex. Orient on writing less object and array useState hooks (this is to keep code clean, simple and understandable)
+
+UseEffect
+- When writing useEffect hook be sure to **never** forget to write the second parameter, which is the dependency array. Leaving it empty array makes it trigger once on component mount, not defining it means it will occur on each rerender (very easy to make infinite rerender loop). The same goes for useMemo and useCallback hooks.
+
+Code style
+- Use hooks at the top of the functional component. Order them by priority and be consistent between hooks on different components. 
+Order priority example:
+```
+	1. Fetch data hooks
+	2. Write/Manipulate data hooks
+	3. State hooks
+	4. Update hooks
+	5. Other less impactful hooks
+```
+- Write your custom hooks  as soon as you need them in the new projects. This will make your code even cleaner and leaner. Also you can reuse it more ofthen troughout the app. If you see you are using same combination of same hooks in a couple of places, it is a perfect example to create a small custom hook. While creating it, make its name intuitive and readable so that anyone who joins the project can understand the code.
+
+#### Custom hooks list
+We have created couple of libraries that use custom hooks:
+ - [Aardvark](https://github.com/bornfight/aardvark) - Oriented towards JSON:API specification. Exposes useGet, usePatch, useDelete, usePost, useGetAll as base custom hooks. Those are self inuitive of what are they doing. It also exports more controlled hooks: useGetControlled and useGetAllControlled which provide back a get function for you to call anywhere in the component.
+ - [Locot](https://github.com/bornfight/locot) - exposes useAuth which in itself is a context hook. It provides back the functions to login & register a user and an action to refresh the token for authentication.
+
+Other helpful custom hooks resources:
+- [https://github.com/rehooks/awesome-react-hooks](https://github.com/rehooks/awesome-react-hooks)
+
 ## State management
 
 ### Redux
