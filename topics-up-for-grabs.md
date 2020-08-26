@@ -10,7 +10,7 @@ Consider them topics, that are still to be filled out, so feel free to type up a
 | [Team support(culture/support.md)](culture/support.md)                                                       | How we treat each other                                                         |
 | [Development onboarding program(onboarding/dev-onboarding.md)](onboarding/dev-onboarding.md)                 | How your first 2 months in Bornfight will look, specific to the dev team        |
 | [Notes for mentors and managers(onboarding/onboarding-for-mentors.md)](onboarding/onboarding-for-mentors.md) | Everything you need to know as a manager                                        |
-| [Notes for Team Leads(onboarding/onboarding-for-team-leads.md)](onboarding/onboarding-for-team-leads.md)     | Everything you need to know as a Team Lead in Bornfight                         |                                             |
+| [Notes for Team Leads(onboarding/onboarding-for-team-leads.md)](onboarding/onboarding-for-team-leads.md)     | Everything you need to know as a Team Lead in Bornfight                         |
 | [The how and what of Jenkins(playbooks/jenkins.md)](playbooks/jenkins.md)                                    | Everything you need to know on how to use Jenkins for CI/CD                     |
 | [How to deal with projects that are on Symfony but are older(playbooks/symfony.md)](playbooks/symfony.md)    | Intro on how things are setup                                                   |
 | [The tech stack we use(playbooks/technology.md)](playbooks/technology.md)                                    | All the stuff we use on a daily basis, and some for specific projects           |
