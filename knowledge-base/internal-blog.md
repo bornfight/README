@@ -26,6 +26,3 @@ Don't be surprised if you use your own blog post every now and then, when you wa
 something.
 
 And when someone asks a question you know is on the blog, you can just send them the link!
-
-The rule is, when you take a topic from "up for grabs" and write about it, just put 2 new ones into the list,
-something YOU would want to read about. That way, we always have a place with ideas on topics.
