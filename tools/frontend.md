@@ -8,6 +8,7 @@ description: Tools used in frontend development
 The diagram represents a sort of "blueprint" that shows us all the components and relationships between them. I found it helpful when they were spread out by screens because it was much easier to see what has been already done. It should also be as simple as it can be (without redundant information like props) to ensure it's updated easily.
 
 ![Component hierarchy diagram](https://i.imgur.com/5WIn9h4.png)
+
 This is an example of a "Home" screen for an app. We have a _wireframe-y_ component composition and we can actually see the relationships between them.
 
 #### Reasoning behind it
