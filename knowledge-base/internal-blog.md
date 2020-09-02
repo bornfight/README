@@ -27,7 +27,7 @@ something.
 
 And when someone asks a question you know is on the blog, you can just send them the link!
 
-You can find the [hall of fame here ](https://educations.dev/all-time-bloggers/ )🔒.
+You can find the [hall of fame here ](https://educations.dev/all-time-bloggers/)🔒.
 
 There are also some [topic up for grabs](https://educations.dev/topics-up-for-grabs/)🔒 that teammates
 want to read about, but don't exist yet.
