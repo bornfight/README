@@ -6,7 +6,7 @@ If you work at [Bornfight](https://www.bornfight.com), you're encouraged to subm
 [pull requests](https://github.com/bornfight/README/pulls),
 [propose and discuss issues](https://github.com/bornfight/README/issues).
 
-Please keep the [Code of Conduct](getting-started/code-of-conduct.md) in mind.
+Please keep the [Code of Conduct](CODE_OF_CONDUCT.md) in mind.
 
 If you don't work at Bornfight, we would love for you to
 [ask us a question or highlight an issue](https://github.com/bornfight/README/issues) in our processes, check out
@@ -29,15 +29,14 @@ yarn install
 This repo has some useful automation set up for it to generate tables of contents. This is implemented in
 [`scripts/create-readmes.ts`](scripts/create-readmes.ts), which handles:
 
-- Creating a summary `README.md` for each section of docs
-- Providing an overview of the section in the root `README.md`
-- Enables running [doctoc](https://github.com/thlorenz/doctoc#readme) on any file with `<!-- START doctoc`
-- Adds every contentless .md file to the [topics-up-for-grabs](topics-up-for-grabs.md).
+-   Creating a summary `README.md` for each section of docs
+-   Providing an overview of the section in the root `README.md`
+-   Enables running [doctoc](https://github.com/thlorenz/doctoc#readme) on any file with `<!-- START doctoc`
+-   Adds every contentless .md file to the [topics-up-for-grabs](topics-up-for-grabs.md).
 
 After adding files, run `yarn setup-structure` to generate tables of contents and other useful files. ~~This could
 later be done on commit, but for now it is done manually.~~ There is a precommit hook for this, so be sure to
 install all the dependencies, since it uses [husky](https://github.com/typicode/husky) for this.
-
 
 Each markdown file in a section uses [yaml front-matter](https://jekyllrb.com/docs/frontmatter/) to add a
 description and title to the document, which are used to generate a `README.md` for each section.
