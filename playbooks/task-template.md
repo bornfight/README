@@ -3,30 +3,30 @@ title: Task template
 description: When you create a new task, what should it contain?
 ---
 
-### What to do/title (mandatory):
-- U nekoliko riječi objasniti srž featurea
-- Npr. "Integracija aplikacije i vanjskog servisa"
+### Title / what to do (mandatory):
+- Explain the core of the feature in just a few words
+- e.g. *Integrating app with external service*
 
 ### Description in detail (mandatory):
-- Opisati detaljno sto treba implementirati
-- Npr, "treba implementirati JWT auth za komunikaciju sa vanjskim servisom, treba modele iz nase aplikacije premapirati u XML (mozes koristit neki parser ili manualno)"
+- Explain in detail what needs to be implemented
+- e.g. "JWT auth needs to be implemented for communication with external service. Models from our app need to be mapped to XML (a parser could be useful or it can be done manually)"
 
 ### Things to keep in mind (optional):
-- Validacije
-- Povezanost s drugim dijelovima aplikacije
-- Optimizacije
-- Potencijalni drugi issuei
+- Validation
+- Relationship with other parts of the app
+- Optimizations
+- Other potential issues
 
 ### Resources (optional):
 - Zeplin
-- Primjer implementacije (npr. Stackoverflow ili s drugog postojećeg projekta)
-- Članak o relateanoj temi
-- Api tokeni, keyevi koji ti trebaju za implementaciju
-- Content docs
-- Npr. Tekst unutar maila
+- An example of implementation (e.g. some other project or Stackoverflow)
+- An article related to the topic
+- API tokens/keys which are necessary for implementation
+- Content docs (e.g. text within email)
 
 ### Estimation (mandatory/optional):
-- Vidjeti ovisno o platformi npr Jira i storypoints ili u satima, treba li to upisivati?
+- Research needs to be done about this
+- We have input field for storypoints in Jira, but we don't use that measure all the time (maybe we need standardization?)
 
 ### Final output? (optional)
-Ova kategorija ne bi trebala postojati, jer sve treba biti jasno iz prethodnih kategorija, a ako nije, onda kreator taska mora poboljšati/izmijeniti napisano
+- This category might seem like it could be useful or needed, but everything should be clear from previous paragraphs. If it's not clear, it means that task creator/delegator needs to improve/modify existing text
