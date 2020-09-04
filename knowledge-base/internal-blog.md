@@ -3,7 +3,7 @@ title: Internal blog
 description: How to use "DevEdu"
 ---
 
-Our [internal DevEdu blog](https://deghq.com/wordpress/devedu/) 🔒 is used only internally.
+Our [internal DevEdu blog](https://educations.dev/) 🔒 is used only internally.
 
 The idea is anything goes
 
@@ -27,9 +27,9 @@ something.
 
 And when someone asks a question you know is on the blog, you can just send them the link!
 
-You can find the [hall of fame here ](https://deghq.com/wordpress/devedu/all-time-bloggers/)🔒.
+You can find the [hall of fame here ](https://educations.dev/all-time-bloggers/)🔒.
 
-There are also some [topic up for grabs](https://deghq.com/wordpress/devedu/topics-up-for-grabs/)🔒 that team mates
+There are also some [topic up for grabs](https://educations.dev/topics-up-for-grabs/)🔒 that teammates
 want to read about, but don't exist yet.
 
 The rule is, when you take a topic from "up for grabs" and write about it, just put 2 new ones into the list,
