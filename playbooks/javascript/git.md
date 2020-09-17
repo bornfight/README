@@ -13,3 +13,6 @@ PR should pass atleast 1 reviewer. After it has been reviewed, a PR's creator sh
 comments/suggestions/issues that the reviewer has left. Only after all has been completed, it is eligible for
 merging to master. Recommended PR size is approximately 250 lines of code. Everything largely above such a mark
 should be separated into 2 or more PRs depending on the size of the code lines changed.
+
+More detailed code review rules and benefits can be found
+[here.](https://github.com/bornfight/README/blob/master/playbooks/code-review.md)
